@@ -1,13 +1,3 @@
-{
-  "embeddings": [
-    {
-      "tensorName": "FastText Embeddings",
-      "tensorShape": [
-        71290,
-        100
-      ],
-      "tensorPath": "https://media.githubusercontent.com/media/parulsethi/EmbeddingVisData/master/FastText/ft_tensor.tsv",
-      "metadataPath": "https://media.githubusercontent.com/media/parulsethi/EmbeddingVisData/master/FastText/ft_metadata.tsv"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d5a92e424c98d2d42c0102b0e1e2b48e746927e39947a57b330801c734fbc9f
+size 389
