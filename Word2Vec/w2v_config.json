@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Word2Vec Embeddings",
+      "tensorShape": [
+        71290,
+        100
+      ],
+      "tensorPath": "https://media.githubusercontent.com/media/parulsethi/EmbeddingVisData/master/Word2Vec/w2v_tensor.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/parulsethi/EmbeddingVisData/master/Word2Vec/w2v_metadata.tsv"
+    }
+  ]
+}
